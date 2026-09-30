@@ -36,4 +36,4 @@ A responsive and interactive product showcase page built according to design spe
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Live Link
-https://frontend-assignment-oqb2bqcfg-himanshus-projects-bd248e65.vercel.app
+https://frontend-assignment-eight-opal.vercel.app
