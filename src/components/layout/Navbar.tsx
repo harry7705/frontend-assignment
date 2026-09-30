@@ -21,7 +21,7 @@ export function Navbar() {
             <div className="flex-shrink-0">
               <Link href="/" className="flex items-center">
                 <Image 
-                  src="https://res.cloudinary.com/driwhaog/image/upload/v1790800468/ChatGPT_Image_Oct_1_2026_02_04_17_AM.png" 
+                  src="/images/logo.png" 
                   alt="Logo" 
                   width={300} 
                   height={76} 
